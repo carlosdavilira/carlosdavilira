@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Carlos David. 👋
 
-<!--
-**carlosdavilira/carlosdavilira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💬 Languages: PT-BR(Native) and English(B1 Level) 💬
 
-Here are some ideas to get you started:
+### I'm a Front-end/Full Stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####
+
+## ✨ Main skills. ✨
+### Java, Spring Boot, Angular, HTML, CSS, Bootstrap, PrimeNG, Typescript, MySQL, SQL, Docker(just basics), SCRUM and KANBAN.  
+
+
+## ⚡ Personal projects full Stack ⚡
+### - Full Stack -> Back: Java and Spring Boot +  Back: HTML, CSS, Typescript, Bootstrap and Angular 
+#### https://github.com/carlosdavilira/smart-select-front
+#### https://github.com/carlosdavilira/smart-select-api
+#### ---
+### - Back-end (Java witch Spring Boot):
+#### https://github.com/carlosdavilira/emailsender-api
+#### https://github.com/carlosdavilira/forum
+
+### Some projects developed in swift
+#### https://github.com/carlosdavilira/recicla-facil
+
+### 🌱 I’m currently learning more about back-end with java using spring boot and microservices.
+
+
+
