@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos David. 👋
 ### I'm a Front-end/Full Stack developer.
 
-#### 💬 Languages: PT-BR(Native) and English(B1 Level) 💬
+#### 💬 Languages: PT-BR(Native) and English 💬
 
 ####
 
