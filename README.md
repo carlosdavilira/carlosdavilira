@@ -10,7 +10,7 @@
 ### Java, Spring Boot, Angular, HTML, CSS, Bootstrap, PrimeNG, Typescript, MySQL, SQL, Docker(just basics), SCRUM and KANBAN.  
 
 
-## ⚡ Personal projects full Stack ⚡
+## ⚡ Personal projects ⚡
 ### - Full Stack -> Back: Java and Spring Boot +  Back: HTML, CSS, Typescript, Bootstrap and Angular 
 #### https://github.com/carlosdavilira/smart-select-front
 #### https://github.com/carlosdavilira/smart-select-api
