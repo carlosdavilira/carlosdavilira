@@ -13,11 +13,11 @@
 #### - Full Stack -> Back: Java and Spring Boot +  Front: HTML, CSS, Typescript, Bootstrap and Angular 
 ##### https://github.com/carlosdavilira/smart-select-front
 ##### https://github.com/carlosdavilira/smart-select-api
-
+##### --
 ##### https://github.com/carlosdavilira/live-schedule-front
 ##### https://github.com/carlosdavilira/live-schedule-api
 
-##### ---
+##### -------
 #### - Back-end (Java witch Spring Boot):
 ##### https://github.com/carlosdavilira/emailsender-api
 ##### https://github.com/carlosdavilira/forum
