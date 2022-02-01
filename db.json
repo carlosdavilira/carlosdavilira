@@ -3,17 +3,24 @@
       {
         "name": "Marcos Jairo da Silva",
         "CPF": 28720798075,
-        "status": "REGULAR"
+        "status": "REGULAR",
+        "conta_corrente":112441212,
+        "conta_aplicacao":23231212
+    
       },
       {
         "name": "Maria Anizia Freitas",
         "CPF": 33866181035,
-        "status": "REGULAR"
+        "status": "REGULAR",
+        "conta_corrente":  9239189,
+        "conta_aplicacao": 1212123
       },
       {
         "name": "Jonairton Martins Araujo",
         "CPF": 74766219058,
-        "status": "IRREGULAR"
+        "status": "IRREGULAR",
+        "conta_corrente":  4523232,
+        "conta_aplicacao": 5323232
       }
     ]
 }
