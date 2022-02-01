@@ -3,7 +3,7 @@
       {
         "name": "Marcos Jairo da Silva",
         "cpf": 28720798075,
-        "status": "REGULAR",
+        "status": "Regular",
         "checkingAccount":112441212,
         "applicationAccount":23231212
     
@@ -11,14 +11,14 @@
       {
         "name": "Maria Anizia Freitas",
         "cpf": 33866181035,
-        "status": "REGULAR",
+        "status": "Regular",
         "checkingAccount":  9239189,
         "applicationAccount": 1212123
       },
       {
         "name": "Jonairton Martins Araujo",
         "cpf": 74766219058,
-        "status": "IRREGULAR",
+        "status": "Irregular",
         "checkingAccount":  4523232,
         "applicationAccount": 5323232
       }
