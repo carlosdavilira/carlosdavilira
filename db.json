@@ -1,0 +1,19 @@
+{
+    "people":[
+      {
+        "name": "Marcos Jairo da Silva",
+        "CPF": 28720798075,
+        "status": "REGULAR"
+      },
+      {
+        "name": "Maria Anizia Freitas",
+        "CPF": 33866181035,
+        "status": "REGULAR"
+      },
+      {
+        "name": "Jonairton Martins Araujo",
+        "CPF": 74766219058,
+        "status": "IRREGULAR"
+      }
+    ]
+}
