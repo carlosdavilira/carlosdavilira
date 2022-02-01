@@ -2,7 +2,7 @@
     "people":[
       {
         "name": "Marcos Jairo da Silva",
-        "CPF": 28720798075,
+        "cpf": 28720798075,
         "status": "REGULAR",
         "checkingAccount":112441212,
         "applicationAccount":23231212
@@ -10,14 +10,14 @@
       },
       {
         "name": "Maria Anizia Freitas",
-        "CPF": 33866181035,
+        "cpf": 33866181035,
         "status": "REGULAR",
         "checkingAccount":  9239189,
         "applicationAccount": 1212123
       },
       {
         "name": "Jonairton Martins Araujo",
-        "CPF": 74766219058,
+        "cpf": 74766219058,
         "status": "IRREGULAR",
         "checkingAccount":  4523232,
         "applicationAccount": 5323232
